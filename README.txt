@@ -37,7 +37,7 @@ Errors:
 Notes on “No libraries”:
 - Only 'sys' is imported (standard I/O) to read command-line arguments.
 
-Enhancements you can mention:
+Enhancements:
 - Deterministic RNG + Fisher–Yates (reproducible random inputs).
 - Concise echo for large inputs with checksum for cross-environment validation.
 - Full adherence to “iterative vs recursive” parity for fair comparison.
